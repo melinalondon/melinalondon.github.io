@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "Hello!"
+title: "Hello!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,8 +10,8 @@ redirect_from:
 I am currently a PhD CIFRE candidate in Economics under the supervision of [Patrick Pintus](https://sites.google.com/site/patrickpintus/) at [Aix-Marseille School of Economics – Aix-Marseille University](https://www.amse-aixmarseille.fr/en/research) and [Julien Marcilly](https://fr.linkedin.com/in/julien-marcilly-0387b127) at [Coface Economic Research Department](https://www.coface.com/Economic-Studies-and-Country-Risks), a team in charge of assessing country and sector risks of corporate defaults.
 
 Contact:
-•	melina.london@coface.com
-•	1 place Costes et Bellonte, 92270 Bois-Colombes, France
+*	melina.london@coface.com
+*	1 place Costes et Bellonte, 92270 Bois-Colombes, France
 
 You can download my CV [here](https://melinalondon.github.io/pdf/mlondon_CV.pdf)
 
