@@ -9,51 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Download my CV [here](https://melinalondon.github.io/files/melinalondon_CV.pdf)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Research Interests ##
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+International Economics, Trade, Networks, Firms' heterogeneity
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education ##
+
+* Ph.D in Economics, Aix-Marseille School of Economics, 2021 (expected)
+* MSc in International Economics, Paris-Dauphine University, 2018
+* MRes in Economics, Sciences Po, 2017
+* B.A. Sciences Po, 2015
+
+## Talks ##
+* *2020*: Innovation Lab Seminar at College de France, AMSE PhD Seminar, Sciences Po PhD seminar, GSIE Lunch Seminar
+* *2019*: AMSE PhD Seminar
+
+
+## Work experience ##
+
+* *October 2017 - Today*: Junior Economist
+  * Coface, Economic Research
+
+* *May 2017 - August 2017*: Assistant Economist
+  * Chilean Delegation to the OECD
+
+## Programming Skills ##
+
+* R
+* Stata
+* Latex
+
+
+## Lanugages ##
+
+* French: Native
+* English: Fluent
+* Spanish: Fluent
+* Czech: Basics
+* Arabic: Basics
+
