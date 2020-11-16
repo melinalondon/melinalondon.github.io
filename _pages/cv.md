@@ -37,9 +37,9 @@ International Economics, Trade, Networks, Firm Dynamics
   
   ## Non-Academic Publications ##
 
-* *May 2020*: Coface Study: (World Trade - despite a sudden interruption, global value chains still have a bright future)[https://www.coface.com/News-Publications/Publications/Focus-World-Trade-despite-a-sudden-interruption-global-value-chains-still-have-a-bright-future]
-* *October 2018*: Coface Study: (US Trade Protectionism: What Are the Knock-On Effects on Global Value Chains?)[https://www.coface.com/News-Publications/Publications/US-Trade-Protectionism-what-are-the-knock-on-effects-on-global-value-chains]
-* *April 2018*: Coface Study: (The New Mediterranean Trade Routes)[https://www.coface.com/News-Publications/Publications/The-new-Mediterranean-trade-routes]
+* *May 2020*: Coface Study: [World Trade - despite a sudden interruption, global value chains still have a bright future](https://www.coface.com/News-Publications/Publications/Focus-World-Trade-despite-a-sudden-interruption-global-value-chains-still-have-a-bright-future)
+* *October 2018*: Coface Study: [US Trade Protectionism: What Are the Knock-On Effects on Global Value Chains?](https://www.coface.com/News-Publications/Publications/US-Trade-Protectionism-what-are-the-knock-on-effects-on-global-value-chains)
+* *April 2018*: Coface Study: [The New Mediterranean Trade Routes](https://www.coface.com/News-Publications/Publications/The-new-Mediterranean-trade-routes)
 
 
 ## Programming Skills ##
