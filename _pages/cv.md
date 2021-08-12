@@ -23,13 +23,14 @@ International Economics, Trade, Networks, Firm Dynamics
 * B.A. Sciences Po, 2015
 
 ## Talks ##
+* *2021*: CREST PhD Seminar, AFSE Annual Conference, GDRE, EconomiX Conference in International Economics, Young Economist Symposium 2021
 * *2020*: Innovation Lab Seminar -- College de France Workshop, AMSE PhD Seminar, Sciences Po PhD seminar, GSIE Lunch Seminar
 * *2019*: AMSE PhD Seminar
 
 
 ## Work experience ##
 
-* *October 2017 - Today*: Junior Economist
+* *October 2017 - Today*: Economist and Country-Risk Analyst
   * Coface, Economic Research
 
 * *May 2017 - August 2017*: Assistant Economist
