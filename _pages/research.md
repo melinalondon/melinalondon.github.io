@@ -18,6 +18,7 @@ Large-scale analyses to map existing interactions between financial constraints 
 With Timothée Gigout.
 
 [Preliminary draft](https://melinalondon.github.io/files/Gigout_London_110821.pdf)
+
 We study how international trade networks react to large natural disasters. We combine exhaustive firm-to-firm trade credit and disaster data and use a dynamic differences-in-differences identification strategy to establish the causal effect of natural disasters on the size, shape and quality of international trade networks. We find strong and permanent negative effects on the exports and trade credit sales of French suppliers. This effect operates exclusively through the number of buyers rather than the intensive margin. It is concentrated among suppliers with few buyers in the affected destination. We find that natural disasters induce a negative shift in the distribution of the quality of buyers. 
 
 ## Trade Credits and Sudden Stops ##
