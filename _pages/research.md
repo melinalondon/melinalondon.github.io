@@ -9,7 +9,7 @@ author_profile: true
 
 ## Trade Networks and Natural Disasters: Diversion, not Destruction##
 
-Job Market Paper -- With Timothée Gigout.
+Job Market Paper - With Timothée Gigout.
 
 [Preliminary draft](https://melinalondon.github.io/files/Gigout_London_JMP.pdf)
 
