@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV [here](https://melinalondon.github.io/files/melinalondon_CV.pdf)
+Download my CV [here](https://melinalondon.github.io/files/CV_research_LONDON_JM.pdf)
 
 ## Research Interests ##
 
@@ -17,7 +17,7 @@ International Economics, Trade, Networks, Firm Dynamics
 
 ## Education ##
 
-* Ph.D in Economics, Aix-Marseille School of Economics, 2021 (expected)
+* Ph.D in Economics, Aix-Marseille School of Economics, 2022 (expected)
 * MA in International Economics, Paris-Dauphine University, 2018
 * MRes in Economics, Sciences Po, 2017
 * B.A. Sciences Po, 2015
@@ -58,6 +58,5 @@ International Economics, Trade, Networks, Firm Dynamics
 * French: Native
 * English: Fluent
 * Spanish: Fluent
-* Czech: Basics
 * Arabic: Basics
 
