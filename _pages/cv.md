@@ -17,7 +17,7 @@ International Economics, Trade, Networks, Firm Dynamics
 
 ## Education ##
 
-* Ph.D in Economics, Aix-Marseille School of Economics, 2022 (expected)
+* Ph.D in Economics, Aix-Marseille School of Economics, May 2022
 * MA in International Economics, Paris-Dauphine University, 2018
 * MRes in Economics, Sciences Po, 2017
 * B.A. Sciences Po, 2015
