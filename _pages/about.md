@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD CIFRE candidate in Economics under the supervision of [Patrick Pintus](https://sites.google.com/site/patrickpintus/) at [Aix-Marseille School of Economics – Aix-Marseille University](https://www.amse-aixmarseille.fr/en/research) and [Julien Marcilly](https://fr.linkedin.com/in/julien-marcilly-0387b127) at [Coface Economic Research Department](https://www.coface.com/Economic-Studies-and-Country-Risks), a team in charge of assessing country and sector risks of corporate defaults.
+I am currently an economist at the [Joint Research Center](https://joint-research-centre.ec.europa.eu/index_en) of the European Commission in Ispra (Italy). My areas of research include international trade, global value chains, sustainable finance and corporate finance.
+I received my PhD in Economics from Aix-Marseille School of Economics in 2022, which was conducted within a CIFRE partnership with the trade credit insurer Coface. Prior to this, I obtained a M.Sc. from Paris-Dauphine University, and a B.A. and a M.Sc. from Sciences-Po Paris.
 
 Contact:
 *	melina.londonhetier@gmail.com
 
-You can download my CV [here](https://melinalondon.github.io/files/CV_research_LONDON_JM.pdf) and my Job Market Paper [here](https://melinalondon.github.io/files/Gigout_London_JMP.pdf) 
+You can download my CV [here](https://melinalondon.github.io/files/CV_research_LONDON_JM.pdf).
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
