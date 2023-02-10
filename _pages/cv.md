@@ -13,7 +13,7 @@ Download my CV [here](https://melinalondon.github.io/files/CV_research_EN.pdf)
 
 ## Research Interests ##
 
-International Economics, Trade, Networks, Firm Dynamics
+International Economics, Trade, Networks, Firm Dynamics, Sustainable Finance
 
 ## Education ##
 
