@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV [here](https://melinalondon.github.io/files/CV_research_LONDON_JM.pdf)
+Download my CV [here](https://melinalondon.github.io/files/CV_research_EN.pdf)
 
 ## Research Interests ##
 
