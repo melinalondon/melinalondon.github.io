@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an economist at the [Joint Research Center](https://joint-research-centre.ec.europa.eu/index_en) of the European Commission in Ispra (Italy). My areas of research include international trade, global value chains, sustainable finance and corporate finance.
+I am currently an economist at the [Joint Research Center](https://joint-research-centre.ec.europa.eu/index_en) of the European Commission in Ispra (Italy). 
+
+My areas of research include international trade, global value chains, sustainable finance and corporate finance.
+
+
 I received my PhD in Economics from Aix-Marseille School of Economics in 2022, which was conducted within a CIFRE partnership with the trade credit insurer Coface. Prior to this, I obtained a M.Sc. from Paris-Dauphine University, and a B.A. and a M.Sc. from Sciences-Po Paris.
 
 Contact:
