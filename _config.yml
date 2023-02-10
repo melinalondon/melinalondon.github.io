@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mélina London"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate in International Economics"
-  location         : "Paris, France"
+  bio              : 
+  location         : "Ispra, Italy"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
