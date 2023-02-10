@@ -32,7 +32,7 @@ International Economics, Trade, Networks, Firm Dynamics
 
 * *September 2022 - Today*: Economist 
   * Joint Research Center of the European Commission, Sustainable Finance Team
-  * 
+ 
 * *October 2017 - July 2022*: Economist and Country-Risk Analyst
   * Coface, Economic Research
 
