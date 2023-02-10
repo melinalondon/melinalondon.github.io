@@ -30,7 +30,10 @@ International Economics, Trade, Networks, Firm Dynamics
 
 ## Work experience ##
 
-* *October 2017 - Today*: Economist and Country-Risk Analyst
+* *September 2022 - Today*: Economist 
+  * Joint Research Center of the European Commission, Sustainable Finance Team
+  * 
+* *October 2017 - July 2022*: Economist and Country-Risk Analyst
   * Coface, Economic Research
 
 * *May 2017 - August 2017*: Assistant Economist
@@ -58,5 +61,5 @@ International Economics, Trade, Networks, Firm Dynamics
 * French: Native
 * English: Fluent
 * Spanish: Fluent
-* Arabic: Basics
+* Italian: Intermediate
 
