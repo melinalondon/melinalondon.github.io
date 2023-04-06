@@ -14,9 +14,18 @@ My areas of research include international trade, global value chains, sustainab
 
 I received my PhD in Economics from Aix-Marseille School of Economics in 2022, which was conducted within a CIFRE partnership with the trade credit insurer Coface. Prior to this, I obtained a M.Sc. from Paris-Dauphine University, and a B.A. and a M.Sc. from Sciences-Po Paris.
 
-New Working Paper with Timothée Gigout:
+
+### New Working Paper:
+
+With Timothée Gigout
 
 [Trade Networks and Natural Disasters: Diversion, not Destruction](https://publications.jrc.ec.europa.eu/repository/handle/JRC133099)
+
+
+
+
+
+
 
 Contact:
 *	melina.londonhetier@gmail.com
