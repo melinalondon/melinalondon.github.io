@@ -11,11 +11,12 @@ author_profile: true
 
 Job Market Paper - With Timothée Gigout.
 
-[Preliminary draft](https://melinalondon.github.io/files/Gigout_London_JMP.pdf)
+[New Working Paper](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC133099/JRC133099_01.pdf)
 
-We study how international trade networks react to natural disasters. We combine exhaustive firm-to-firm trade credit and disaster data and use a dynamic difference-in-differences identification strategy. We establish the causal effect of natural disasters abroad on the size, shape and quality of the French exporters' international trade networks. We find evidence of large and persistent disruptions to international buyer-supplier relationships. This leads to a restructuring of the trade network of largest French exporters and a change in trade finance sources for affected countries. We find strong and permanent negative effects on French suppliers' trade credit sales to affected destinations. This effect operates exclusively through a reduction in the number of buyers, particularly among those with good credit ratings. This induces a negative shift in the distribution of the quality of firms in the destination affected by the natural disaster. On the supplier side, we find that large multinationals restructure their network towards buyers in unaffected destinations. Trade network restructuring is higher for large multinationals trading more homogeneous products.
+We study how international trade networks react to natural disasters. We combine exhaustive firm-to-firm trade credit and disaster data and use a dynamic difference-in-differences identification strategy. We establish the causal effect of natural disasters abroad on the size, shape and credit quality of French exporters' international trade networks. We find evidence of large and persistent disruptions to international buyer-supplier relationships. This leads to a restructuring of the trade network of the largest French exporters and a change in trade finance sources for affected countries. We find strong and permanent negative effects on the trade credit sales of French suppliers to affected destinations. The largest firms are driving the response, both on the supplier and buyer side. Trade network restructuring towards unaffected destinations is higher for large multinationals trading more homogeneous products. This effect operates exclusively through a reduction in the number of buyers. This induces a negative shift in the distribution of the credit quality of buyers in the destination affected by the natural disaster. 
 
-## Cross-Sector Interactions in Western Europe: Lessons From Trade Credit Data ##
+## Cross-Sector Interactions in Western Europe: Lessons From Trade Credit Data ## 
+R&R Journal of International Economics
 
 [Working Paper](https://www.amse-aixmarseille.fr/fr/file/5236/download?token=jQHYi57L)
 
