@@ -19,6 +19,7 @@ Large-scale analyses to map interactions between financial health at the sectora
 ## US Monetary Policy Spillovers To Emerging Markets: The Trade Credit Channel ##
 
 with Maéva Silvestrini
+
 R&R Journal of International Economics
 
 [Banque de France Working Paper](https://www.banque-france.fr/system/files/2023-06/wp915_0.pdf)
