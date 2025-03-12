@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV [here](https://melinalondon.github.io/files/CV_research_EN_JRC.pdf)
+Download my CV [here](https://melinalondon.github.io/files/CV_London25.pdf)
 
 ## Research Interests ##
 
@@ -54,7 +54,6 @@ International Economics, Trade, Networks, Firm Dynamics, Sustainable Finance
 * Stata
 * Latex
 * SAS
-* SQL
 * Datastream
 
 
@@ -64,4 +63,6 @@ International Economics, Trade, Networks, Firm Dynamics, Sustainable Finance
 * English: Fluent
 * Spanish: Fluent
 * Italian: Intermediate
+* Czech: Basics
+* Arabic: Basics
 
