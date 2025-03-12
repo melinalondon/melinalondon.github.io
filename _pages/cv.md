@@ -62,7 +62,7 @@ International Economics, Trade, Networks, Firm Dynamics, Sustainable Finance
 * French: Native
 * English: Fluent
 * Spanish: Fluent
-* Italian: Intermediate
+* Italian: Fluent
 * Czech: Basics
 * Arabic: Basics
 
