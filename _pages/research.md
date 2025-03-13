@@ -47,3 +47,7 @@ We study how international trade networks react to natural disasters. We combine
 *Firms in transition: a different capital structure?* - with Giacomo Cotignano & Serena Fatica
 
 *The financial drivers of innovation* - with Giacomo Cotignano & Serena Fatica
+
+## POLICY REPORTS ##
+
+[Towards a framework to monitor finance for green investment](https://publications.jrc.ec.europa.eu/repository/handle/JRC136925) with Annette Becker, Serena Fatica, Roberto Panzica and Georgios Papadopoulos.
