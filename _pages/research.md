@@ -7,16 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-## US Monetary Policy Spillovers To Emerging Markets: The Trade Credit Channel ##
+## PUBLICATIONS ##
+
+  ## US Monetary Policy Spillovers To Emerging Markets: The Trade Credit Channel ##
 
 with Maéva Silvestrini
 
 Journal of International Economics (forthcoming)
 
-[Banque de France Working Paper](https://www.banque-france.fr/system/files/2023-06/wp915_0.pdf)
+[Working Paper Version](https://www.banque-france.fr/system/files/2023-06/wp915_0.pdf)
 
-We analyze the effects of exogenous US monetary policy shocks on trade credit towards emerging markets, using a proprietary database on trade credit amounts. We show that a US monetary tightening leads to an increase in foreign-supplied trade credit in Mexico. Thanks to the granularity of our database, we are able to identify a stronger effect for trade credit in USD and trade credit to sectors with low export orientation. This effect is even larger for low-quality buyers, subject to larger financial constraints. In this latter case, distinguishing between the intensive and extensive margins, we show that the use of trade credit as a substitute only holds in a context of pre-existing relationships. This emphasizes the substitution role of trade credit when global financial conditions tighten due to US monetary policy shocks.
+[SUERF Policy Brief](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/us-monetary-policy-spillovers-to-emerging-markets-the-role-of-trade-credit/)
 
+This paper provides empirical evidence on the impact of US monetary policy surprises on firm-to-firm trade credit in emerging markets, using a proprietary firm-level database. We show that trade credit acts as a buffer against the adverse effects of US monetary tightening, which, by constraining global financial conditions, increases reliance on trade credit as an alternative financing source. This effect is more pronounced for buyers with poor credit quality, who are primarily affected when financial conditions tighten. This later effect only exists in pre-existing relationships, where trust can be more readily established, compared to new partnerships.  Given the widespread use of trade credit in emerging markets, this buffering role is crucial for mitigating financial pressures in these economies.
+
+## WORKING PAPERS ##
 
 ## Cross-Sector Interactions in Western Europe: Lessons From Trade Credit Data ## 
 
@@ -33,4 +38,12 @@ With Timothée Gigout.
 
 We study how international trade networks react to natural disasters. We combine exhaustive firm-to-firm trade credit and disaster data and use a dynamic difference-in-differences identification strategy. We establish the causal effect of natural disasters abroad on the size, shape and credit quality of French exporters' international trade networks. We find evidence of large and persistent disruptions to international buyer-supplier relationships. This leads to a restructuring of the trade network of the largest French exporters and a change in trade finance sources for affected countries. We find strong and permanent negative effects on the trade credit sales of French suppliers to affected destinations. The largest firms are driving the response, both on the supplier and buyer side. Trade network restructuring towards unaffected destinations is higher for large multinationals trading more homogeneous products. This effect operates exclusively through a reduction in the number of buyers. This induces a negative shift in the distribution of the credit quality of buyers in the destination affected by the natural disaster. 
 
+## ONGOING RESEARCH ##
 
+*Natural Disasters and Firms' Global Value Chain Adaptation* - with Andrea Ciani, Filippo Maria D'Arcangelo & Elena Zaurino
+
+*Sustainable Finance in MENA countries* - Book chapter with Lucia Alessi, Annette Becker & Caterina Rho
+
+*Firms in transition: a different capital structure?* - with Giacomo Cotignano & Serena Fatica
+
+*The financial drivers of innovation* - with Giacomo Cotignano & Serena Fatica
