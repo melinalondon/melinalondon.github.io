@@ -9,7 +9,7 @@ author_profile: true
 
 ## PUBLICATIONS ##
 
-  ## US Monetary Policy Spillovers To Emerging Markets: The Trade Credit Channel ##
+## US Monetary Policy Spillovers To Emerging Markets: The Trade Credit Channel ##
 
 with Maéva Silvestrini
 
