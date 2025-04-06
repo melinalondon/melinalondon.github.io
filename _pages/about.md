@@ -22,7 +22,8 @@ You can download my CV [here](https://melinalondon.github.io/files/CV_London25.p
 
 **NEW PUBLICATION**
 
-*Journal of International Economics*:
+*Journal of International Economics*
+
 [US monetary policy spillovers to emerging markets: The role of
 trade credit](https://www.sciencedirect.com/science/article/pii/S0022199625000200/pdfft?md5=0c520d136d2b92dfd599b0eebd0d2ce4&pid=1-s2.0-S0022199625000200-main.pdf) with Maéva Silvestrini
 
