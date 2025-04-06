@@ -23,7 +23,7 @@ You can download my CV [here](https://melinalondon.github.io/files/CV_London25.p
 **NEW PUBLICATION**
 
 [US monetary policy spillovers to emerging markets: The role of
-trade credit](https://www.sciencedirect.com/science/article/pii/S0022199625000200/pdfft?md5=0c520d136d2b92dfd599b0eebd0d2ce4&pid=1-s2.0-S0022199625000200-main.pdf) with Maéva Silvestrini
+trade credit](https://www.sciencedirect.com/science/article/pii/S0022199625000200/pdfft?md5=0c520d136d2b92dfd599b0eebd0d2ce4&pid=1-s2.0-S0022199625000200-main.pdf) with Maéva Silvestrini, Journal of International Economics
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
