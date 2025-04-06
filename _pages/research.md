@@ -13,13 +13,13 @@ author_profile: true
 
 with Maéva Silvestrini
 
-Journal of International Economics (forthcoming)
+[Journal of International Economics (2025)](https://www.sciencedirect.com/science/article/pii/S0022199625000200/pdfft?md5=0c520d136d2b92dfd599b0eebd0d2ce4&pid=1-s2.0-S0022199625000200-main.pdf)
 
-[Working Paper Version](https://www.banque-france.fr/system/files/2023-06/wp915_0.pdf)
+This paper provides empirical evidence on the impact of US monetary policy surprises on firm-to-firm trade credit in emerging markets, using a proprietary firm-level database. We show that trade credit acts as a buffer against the adverse effects of US monetary tightening, which, by constraining global financial conditions, increases reliance on trade credit as an alternative financing source. This effect is more pronounced for buyers with poor credit quality, who are primarily affected when financial conditions tighten. This later effect only exists in pre-existing relationships, where trust can be more readily established, compared to new partnerships.  Given the widespread use of trade credit in emerging markets, this buffering role is crucial for mitigating financial pressures in these economies.  
 
-[SUERF Policy Brief](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/us-monetary-policy-spillovers-to-emerging-markets-the-role-of-trade-credit/)
+[Replication Package](https://data.mendeley.com/datasets/t7sn36rzhn/1)
 
-This paper provides empirical evidence on the impact of US monetary policy surprises on firm-to-firm trade credit in emerging markets, using a proprietary firm-level database. We show that trade credit acts as a buffer against the adverse effects of US monetary tightening, which, by constraining global financial conditions, increases reliance on trade credit as an alternative financing source. This effect is more pronounced for buyers with poor credit quality, who are primarily affected when financial conditions tighten. This later effect only exists in pre-existing relationships, where trust can be more readily established, compared to new partnerships.  Given the widespread use of trade credit in emerging markets, this buffering role is crucial for mitigating financial pressures in these economies.
+[SUERF Policy Brief (WP version)](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/us-monetary-policy-spillovers-to-emerging-markets-the-role-of-trade-credit/)
 
 ## WORKING PAPERS ##
 
