@@ -18,7 +18,7 @@ I received my PhD in Economics from Aix-Marseille School of Economics in 2022, w
 Contact:
 *	melina.london@ec.europa.eu
 
-You can download my CV [here](https://melinalondon.github.io/files/CV_London_2025.pdf).
+You can download my CV [here](https://melinalondon.github.io/files/CV_2025research_London.pdf).
 
 **NEW PUBLICATION**
 
