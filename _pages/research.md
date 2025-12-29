@@ -42,9 +42,11 @@ We study how international trade networks react to natural disasters. We combine
 
 *Natural Disasters and Firms' Global Value Chain Adaptation* - with Andrea Ciani, Filippo Maria D'Arcangelo & Elena Zaurino
 
+* Geopolitical Risk Propagation in Firms’ Networks: the Case of Trade Credit* – with Anna Farrugia
+
 *Sustainable Finance in MENA countries* - Book chapter with Lucia Alessi, Annette Becker & Caterina Rho
 
-*Firms in transition: a different capital structure?* - with Giacomo Cotignano & Serena Fatica
+*Are corporate Climate Pledges Rewarded? Evidence from Bond and Loan Markets* - with Giacomo Cotignano & Serena Fatica
 
 *The financial drivers of innovation* - with Giacomo Cotignano & Serena Fatica
 
