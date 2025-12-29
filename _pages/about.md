@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an economist at the [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) of the European Commission in Ispra (Italy). 
+I am currently Senior Economist at the [Finance for Development Lab - CEPREMAP](https://findevlab.org). Prior to this, I was economist at the [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) of the European Commission in Ispra (Italy). 
 
 My areas of research include international macroeconomics, trade, sustainable finance and corporate finance.
 
@@ -16,9 +16,9 @@ I received my PhD in Economics from Aix-Marseille School of Economics in 2022, w
 
 
 Contact:
-*	melina.london@ec.europa.eu
+*	london@findevlab.org
 
-You can download my CV [here](https://melinalondon.github.io/files/CV_2025research_London.pdf).
+You can download my CV [here](https://melinalondon.github.io/files/CV_London2026.pdf).
 
 **NEW PUBLICATION**
 
