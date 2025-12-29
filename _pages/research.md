@@ -42,7 +42,7 @@ We study how international trade networks react to natural disasters. We combine
 
 *Natural Disasters and Firms' Global Value Chain Adaptation* - with Andrea Ciani, Filippo Maria D'Arcangelo & Elena Zaurino
 
-* Geopolitical Risk Propagation in Firms’ Networks: the Case of Trade Credit* – with Anna Farrugia
+*Geopolitical Risk Propagation in Firms’ Networks: the Case of Trade Credit* – with Anna Farrugia
 
 *Sustainable Finance in MENA countries* - Book chapter with Lucia Alessi, Annette Becker & Caterina Rho
 
