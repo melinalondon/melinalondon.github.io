@@ -16,7 +16,7 @@ Download my CV [here](https://melinalondon.github.io/files/CV_London2026.pdf)
 International Economics, Trade, Networks, Firm Dynamics, Sustainable Finance
 
 ## Work experience ##
-* *November 2025 - September 2023*: Senior Economist 
+* *November 2025 - Today*: Senior Economist 
   * Finance for Development Lab - CEPREMAP
     
 * *September 2022 - September 2025*: Economist 
