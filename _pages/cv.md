@@ -9,15 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV [here](https://melinalondon.github.io/files/CV_London25.pdf)
+Download my CV [here](https://melinalondon.github.io/files/CV_London2026.pdf)
 
 ## Research Interests ##
 
 International Economics, Trade, Networks, Firm Dynamics, Sustainable Finance
 
 ## Work experience ##
-
-* *September 2022 - Today*: Economist 
+* *November 2025 - September 2023*: Senior Economist 
+  * Finance for Development Lab - CEPREMAP
+    
+* *September 2022 - September 2025*: Economist 
   * Joint Research Centre of the European Commission, Sustainable Finance Team
  
 * *October 2017 - July 2022*: Economist and Country-Risk Analyst
