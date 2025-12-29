@@ -36,14 +36,14 @@ International Economics, Trade, Networks, Firm Dynamics, Sustainable Finance
 * B.A. Sciences Po, 2015
 
 ## Talks ##
-
+* *2025*: JRC Sustainable Finance Summer School, Sustainable Finance, Skills & Green Competitiveness at the Scotland House Brussels
 * *2023*: Conference on Real-Time Data Analysis, Methods, and Applications hosted by Banco de España, Seminar at Università degli Studi di Napoli Parthenope on Climate Physical Risks: Assessment and Spillovers, EU side events for the COP28: Monitoring green financial flows.
 * *2021*: CREST PhD Seminar, AFSE Annual Conference, GDRE, EconomiX Conference in International Economics, Young Economist Symposium 2021
 * *2020*: Innovation Lab Seminar -- College de France Workshop, AMSE PhD Seminar, Sciences Po PhD seminar, GSIE Lunch Seminar
 * *2019*: AMSE PhD Seminar
   
 ## Non-Academic Publications ##
-
+* *June 2025* *: JRC Science for Policy Brief (JRC 142 344) – [The financing of EU firms for green competitiveness](https://publications.jrc.ec.europa.eu/repository/handle/JRC142344)
 * *April 2024*: JRC report 136925: [Towards a framework to monitor finance for green investment](https://publications.jrc.ec.europa.eu/repository/handle/JRC136925)
 * *May 2020*: Coface Study: [World Trade - despite a sudden interruption, global value chains still have a bright future](https://www.coface.com/News-Publications/Publications/Focus-World-Trade-despite-a-sudden-interruption-global-value-chains-still-have-a-bright-future)
 * *October 2018*: Coface Study: [US Trade Protectionism: What Are the Knock-On Effects on Global Value Chains?](https://www.coface.com/News-Publications/Publications/US-Trade-Protectionism-what-are-the-knock-on-effects-on-global-value-chains)
@@ -54,6 +54,7 @@ International Economics, Trade, Networks, Firm Dynamics, Sustainable Finance
 
 * R
 * Stata
+* Python
 * Latex
 * SAS
 * Datastream
